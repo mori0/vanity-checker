@@ -32,9 +32,6 @@ with open('list.txt','r') as handle:
               
             else:
              print(f"{Fore.RED} {vanity} invaild")
-             with open("invaild.txt","a+") as file:
-              file.write(vanity)
-              file.write("\n")
               invaild =+ 1
         
-        print(f"went through list.. {valid} - valid, {invalid} - invalid, total - {len(list)}")
+        print(f"went through list.. {valid} valid, {invalid} invalid, total {len(list)}")
