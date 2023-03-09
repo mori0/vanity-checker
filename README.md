@@ -1,4 +1,4 @@
-# discord-nuke-bot
+# vanity-checker
 ```
 git clone https://github.com/vqea/vanity-checker
 ```
