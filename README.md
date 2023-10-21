@@ -1,6 +1,6 @@
 # vanity-checker
 ```
-git clone https://github.com/vqea/vanity-checker
+git clone https://github.com/mori0/vanity-checker
 ```
 ```
 python3 main.py
